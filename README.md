@@ -9,7 +9,7 @@
 ![Built With](https://img.shields.io/badge/Built%20With-Claude%20AI-d5c8a8?style=flat-square)
 
 ---
-![Lumine Banner](screenshots/banner.png)
+![Lumine Banner](screenshots /banner.png)
 
 ## 🗂️ What's Inside
 
@@ -27,9 +27,9 @@
 ---
 ## 🖼️ Visual Identity
 
-![Product Photography](screenshots/product-flat-lay.png)
+![Product Photography](screenshots /product-flat-lay.png)
 
-![Morning Routine](screenshots/morning-routine.png)
+![Morning Routine](screenshots /morning-routine.png)
 
 
 
